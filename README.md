@@ -10,6 +10,6 @@ programmatically create 3D files (STL, etc.) that can be 3D printed.
   helpful reference to have available while coding.
 - [SolidPython](https://github.com/SolidCode/SolidPython) is a helpful
   library that allows coding in Python and exporting to OpenSCAD.
-  Recent versions of OpenSCAD have improved the language, making this
-  less necessary.
+  Recent versions of OpenSCAD have greatly improved the language,
+  making using Python less necessary.
 
