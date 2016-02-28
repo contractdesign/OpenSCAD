@@ -1,7 +1,7 @@
 
 /*
 
-create the Harry Potter symbol
+create the Harry Potter "Deathly Hallows" symbol
 
 
 */
